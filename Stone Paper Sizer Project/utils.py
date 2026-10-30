@@ -1,0 +1,1 @@
+choices = ["stone", "paper", "scissors"]
